@@ -175,11 +175,3 @@ LinkedIn: www.linkedin.com/in/jayen-patil
 Please consider giving this repository a ⭐.
 
 ---
-
-## 📜 Copyright
-
-© 2026 Jayen Patil. All Rights Reserved.
-
-This project is shared for portfolio and demonstration purposes only.
-
-Unauthorized copying, redistribution, or submission of this work as your own is not permitted.
