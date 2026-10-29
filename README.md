@@ -158,20 +158,3 @@ This dashboard helps identify business trends, top-performing restaurants, custo
 
 ---
 
-## 👨‍💻 Author
-
-**Jayen Patil**
-
-Aspiring Data Analyst | Power BI | SQL | Excel | Python
-
-GitHub: https://github.com/JayenPatil
-
-LinkedIn: www.linkedin.com/in/jayen-patil
-
----
-
-## ⭐ If you like this project
-
-Please consider giving this repository a ⭐.
-
----
